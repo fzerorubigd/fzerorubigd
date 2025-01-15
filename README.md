@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 - Blog (Persian): https://fzero.rubi.gd
-- Twitter: @fzerorubigd
+- ~Twitter: @fzerorubigd~ No longer there
 - Email: fzero@rubi.gd
 - Mastadon: @fzero@rubi.gd
